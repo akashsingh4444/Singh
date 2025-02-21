@@ -4,6 +4,13 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { FaYoutube, FaEnvelope, FaHome, FaInfoCircle, FaVideo, FaTrophy } from "react-icons/fa";
 
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git push -u origin main
+
 const logo = "/snapedit_1725361109010.jpeg";
 
 const Home = () => (
